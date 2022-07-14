@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arjunssat
-- 👀 I’m interested in AI & Data scinece
+- 👀 I’m interested in AI & Data science
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on Data science and applied fields
 
