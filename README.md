@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ML & AI
 
-Skills: Python / Machine Learning / Deep Learning  / NLP / Hadoop / Spark
+Skills: Python / Machine Learning / Deep Learning  / NLP / Hadoop / Spark 
+<hr>
 You can also find me on- 
 
 [<img align="left" alt="c17hawke | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
