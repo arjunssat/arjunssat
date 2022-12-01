@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML & AI
 
 Skills: Python / Machine Learning / Deep Learning  / NLP / Hadoop / Spark
-- 📫 How to reach me 
+📫 Reach me on-
 <br>
 
 <hr>
