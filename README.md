@@ -16,7 +16,7 @@ Skills: Python / Machine Learning / Deep Learning  / NLP / Hadoop / Spark
 </p>
 <hr> 
 
-You can also find me on- 
+You can also find me on:
 
 [<img align="left" alt="c17hawke | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
