@@ -29,15 +29,14 @@ You can also find me on:
 [linkedin]: https://www.linkedin.com/in/arjun-satish-548611b0/
 [twitter]: https://www.twitter.com/ArjunSatish1
 
-
-<!---
-arjunssat/arjunssat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- 
  <div align="center">
 
 <h3> Show some ❤️ by starring some of the repositories! </h3>
 
 </div>
 
+
+<!---
+arjunssat/arjunssat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
