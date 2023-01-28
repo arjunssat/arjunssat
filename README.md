@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=455&lines=Hi!;I+am+Arjun+;I+love+to+build+things+;that+last+on+CyberSpace.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi!;I+am+Arjun;I+love+to+create+%26+build+model's;that+last+on+CyberSpace.)](https://git.io/typing-svg)
 - 👋 Hi, I’m @arjunssat
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning AI
