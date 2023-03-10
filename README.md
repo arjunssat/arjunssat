@@ -3,8 +3,9 @@
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ML & AI
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width='200'/>
 
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px"></h1>
 
 I am a Data Scientist with skills in Machine Learning, Deep Learning, and NLP. I have been working on frameworks such as Tensorflow, Keras, Scikit-learn, and Flask. I have built several End to End projects with machine learning, deep learning, and NLP.
 My key skills in data science projects include EDA, Feature Engineering, Data cleaning.
