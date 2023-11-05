@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi!;I+am+Arjun;I+love+to+create+%26+build+model's;that+last+on+CyberSpace.)](https://git.io/typing-svg)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 - 👋 Hi, I’m @arjunssat
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning AI
