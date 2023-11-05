@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on ML & AI
 
 
-I am a Data Scientist with skills in Machine Learning, Deep Learning, and NLP. I have been working on frameworks such as Tensorflow, Keras, Scikit-learn, and Flask. I have built several End to End projects with machine learning, deep learning, and NLP.
+I am a Data Engineer with skills in Machine Learning, Deep Learning, and NLP. I have been working on frameworks such as Tensorflow, Keras, Scikit-learn, and Flask. I have built several End to End projects with machine learning, deep learning, and NLP.
 My key skills in data science projects include EDA, Feature Engineering, Data cleaning.
 
 
