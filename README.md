@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ML & AI
 
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 I am a Data Scientist with skills in Machine Learning, Deep Learning, and NLP. I have been working on frameworks such as Tensorflow, Keras, Scikit-learn, and Flask. I have built several End to End projects with machine learning, deep learning, and NLP.
 My key skills in data science projects include EDA, Feature Engineering, Data cleaning.
@@ -19,7 +19,7 @@ Skills: Python / Machine Learning / Deep Learning  / NLP / Hadoop / Spark
 
 
  </p>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 </p>
 <hr> 
 
