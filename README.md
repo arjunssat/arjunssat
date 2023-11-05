@@ -40,7 +40,7 @@ Skills: Python / Machine Learning / Deep Learning  / NLP / Hadoop / Spark
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-
+<br>
 </p>
 <hr> 
 
