@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi!;I+am+Arjun;I+love+to+create+%26+build+model's;that+last+on+CyberSpace.)](https://git.io/typing-svg)
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 - 👋 Hi, I’m @arjunssat
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning AI
@@ -9,7 +10,7 @@
 I am a Data Scientist with skills in Machine Learning, Deep Learning, and NLP. I have been working on frameworks such as Tensorflow, Keras, Scikit-learn, and Flask. I have built several End to End projects with machine learning, deep learning, and NLP.
 My key skills in data science projects include EDA, Feature Engineering, Data cleaning.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 Skills: Python / Machine Learning / Deep Learning  / NLP / Hadoop / Spark 
 <hr>
