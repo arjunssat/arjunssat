@@ -63,8 +63,6 @@ You can also find me on:
 <h3> Show some ❤️ by starring some of the repositories! </h3>
 
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
-<br><br>
 
 <!---
 arjunssat/arjunssat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
