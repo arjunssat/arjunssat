@@ -15,8 +15,8 @@ My key skills in data science projects include EDA, Feature Engineering, Data cl
 Skills: Python / Machine Learning / Deep Learning  / NLP / Hadoop / Spark 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
+<div align="left" style="white-space: nowrap; overflow-x: auto;">
 
-<p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 </a>
