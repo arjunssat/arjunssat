@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi!;I+am+Arjun;I+love+to+create+%26+build+model's;that+last+on+CyberSpace.)](https://git.io/typing-svg)
 
-
-- 👋 Hi, I’m @arjunssat
 - 👀 I’m interested in building scalable AI systems & intelligent applications
 - 🌱 Currently working on Agentic AI, LLM systems, and production-grade RAG pipelines
 - 💞️ Open to collaborating on AI products, LLM apps, and data-driven platforms
