@@ -15,56 +15,7 @@ My key skills in data science projects include EDA, Feature Engineering, Data cl
 Skills: Python / Machine Learning / Deep Learning  / NLP / Hadoop / Spark 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
-<div align="left" style="white-space: nowrap; overflow-x: auto;">
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://opencv.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-</a>
-<a href="https://www.tensorflow.org" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-</a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
-<a href="https://seaborn.pydata.org/" target="_blank">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-</a>
-<a href="https://azure.microsoft.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://cloud.google.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-</a>
-</p>
 
 
  </p>
