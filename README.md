@@ -2,13 +2,13 @@
 
 
 - 👋 Hi, I’m @arjunssat
-- 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ML & AI
+- 👀 I’m interested in building scalable AI systems & intelligent applications
+- 🌱 Currently working on Agentic AI, LLM systems, and production-grade RAG pipelines
+- 💞️ Open to collaborating on AI products, LLM apps, and data-driven platforms
 
 
-I am a Data Engineer with skills in Machine Learning, Deep Learning, and NLP. I have been working on frameworks such as Tensorflow, Keras, Scikit-learn, and Flask. I have built several End to End projects with machine learning, deep learning, and NLP.
-My key skills in data science projects include EDA, Feature Engineering, Data cleaning.
+I am a Data Engineer focused on building production-grade AI systems by combining LLMs, data pipelines, and scalable cloud architectures.
+I specialize in Retrieval-Augmented Generation (RAG), agentic workflows, and end-to-end AI applications that solve real-world problems.My work spans data engineering, machine learning, and modern LLM-based system design.
 
 
 
